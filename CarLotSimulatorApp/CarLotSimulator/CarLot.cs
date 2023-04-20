@@ -7,6 +7,9 @@ namespace CarLotSimulator
 		{
 		}
 
+		public static int numberOfcars = 1;
+
+
 		public System.Collections.Generic.List<Car> Cars = new System.Collections.Generic.List<Car>();
 
 	}
